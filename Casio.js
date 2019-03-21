@@ -1,4 +1,5 @@
 
+
 	class Casio{
 	setNumber (Numa,Numb) {
 		this.Numa = Number(Numa);
